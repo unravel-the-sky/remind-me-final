@@ -2,7 +2,11 @@
 
 RemindME App 
 
-it's an app where you login and put things on your mind, and let the app remind you.
+it's an app where you login and put things on your mind, and let the app remind you..
+
+# coming features (when i have time):
+- Facebook integration (facebook events will be captured here and you'll be reminded)
+- SMS reminders or even better, push notifications!
 
 
 ## Build Setup
