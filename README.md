@@ -1,6 +1,9 @@
 # remindme-frontend-2
 
-> A Vue.js project
+RemindME App 
+
+it's an app where you login and put things on your mind, and let the app remind you.
+
 
 ## Build Setup
 
